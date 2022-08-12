@@ -1,3 +1,3 @@
 main
 
-khong biet nx
+ok cl
